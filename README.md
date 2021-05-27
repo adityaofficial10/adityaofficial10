@@ -1,7 +1,7 @@
 ![Aditya has a lot of ideas.](https://res.cloudinary.com/nitk/image/upload/c_scale,h_785,w_1450/v1620844223/Screenshot_2021-05-12_at_11.51.44_PM_fh3u0l.png)
 
 <h1 align="left">Hi 👋, I'm Aditya R Rudra</h1>
-<h3 align="left">A passionate software developer and CSE undergraduate from NITK, India</h3>
+<h3 align="left">A passionate and self-motivated software developer and CSE undergraduate from NITK, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaofficial10&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" /> </p>
 
